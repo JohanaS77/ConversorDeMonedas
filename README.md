@@ -14,13 +14,11 @@
 
 ---
 
-## Challenge de Alura sobre conversión de monedas con la API ExchangeRate 
-![](https://img.freepik.com/vector-premium/ilustracion-vectorial-dibujos-animados-bolsa-dinero-aislada-fondo-blanco_1322560-79295.jpg?w=100)
+## Challenge de Alura sobre conversión de monedas con la API ExchangeRate ![](https://img.freepik.com/vector-premium/ilustracion-vectorial-dibujos-animados-bolsa-dinero-aislada-fondo-blanco_1322560-79295.jpg?w=100)
 
 Este proyecto es un Conversor de Monedas desarrollado el programa Java que te permite convertir diferentes divisas utilizando la API ExchangeRate de tasas de cambio. Con este conversor, podrás realizar solicitudes a la API, analizar la respuesta JSON, filtrar las monedas de interés y mostrar los resultados a los usuarios de manera clara y concisa. Desarrollado en Java con interfaz gráfica de usuario (JOptionPane) utilizando la biblioteca Swing. La aplicación permite a los usuarios convertir diferentes divisas utilizando una API de tasas de cambio en tiempo real.
 
-## Pasos para completar el desafío
-![](https://img.freepik.com/fotos-premium/signo-euro-simbolo_2227-473.jpg?w=40)
+## Pasos para completar el desafío ![](https://img.freepik.com/fotos-premium/signo-euro-simbolo_2227-473.jpg?w=40)
 
 Sigue estos pasos para completar el desafío de programación y construir tu propio Conversor de Monedas:
 
@@ -31,8 +29,7 @@ Sigue estos pasos para completar el desafío de programación y construir tu pro
 **Filtro de Monedas:** Implementa un mecanismo para filtrar las monedas de interés, permitiendo al usuario seleccionar las divisas de origen y destino para la conversión. 
 **Exibición de Resultados a los usuarios:** Muestra los resultados de la conversión de manera clara y legible para el usuario. Puedes utilizar una interfaz gráfica de usuario (GUI) o una interfaz de línea de comandos (CLI) según tus preferencias.
 
-## Tecnologías utilizadas
-![](https://img.freepik.com/vector-premium/vector-personajes-dibujos-animados-portatiles_1023984-25168.jpg?w=40)
+## Tecnologías utilizadas ![](https://img.freepik.com/vector-premium/vector-personajes-dibujos-animados-portatiles_1023984-25168.jpg?w=40)
 Utiliza las siguientes tecnologías y herramientas:
 
 **-Java:** El lenguaje de programación principal utilizado para desarrollar la lógica de la aplicación y la interfaz de usuario.
@@ -42,8 +39,7 @@ Utiliza las siguientes tecnologías y herramientas:
 **-Git:** Se utiliza Git como sistema de control de versiones para el desarrollo colaborativo del proyecto.
 **-IntelliJ IDEA:** El IDE utilizado para desarrollar y administrar el proyecto.
 
-## Ejecución del Proyecto
-![](https://img.freepik.com/fotos-premium/imagen-inteligencia-artificial_1273586-25031.jpg?w=40)
+## Ejecución del Proyecto ![](https://img.freepik.com/fotos-premium/imagen-inteligencia-artificial_1273586-25031.jpg?w=40)
 
 Para ejecutar el proyecto, sigue estos pasos:
 
@@ -53,8 +49,7 @@ Para ejecutar el proyecto, sigue estos pasos:
 -Ejecuta la aplicación con la clase IniciarApp y siga las instrucciones en pantalla.
 
 
-## Recursos
-![](https://img.freepik.com/vector-premium/dibujos-animados-ilustracion-vectorial-camara_969863-360419.jpg?w=40)
+## Recursos ![](https://img.freepik.com/vector-premium/dibujos-animados-ilustracion-vectorial-camara_969863-360419.jpg?w=40)
 
 **-API de Tasas de Cambio:** Utiliza una API confiable y bien documentada para obtener las tasas de cambio actualizadas. Algunas opciones populares incluyen ExchangeRate-API y Open Exchange Rates.
 **-Librerías de JSON: **Para analizar la respuesta JSON de la API, puedes utilizar librerías como Gson, Json u otras disponibles para Java.
