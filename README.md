@@ -57,3 +57,15 @@ Para ejecutar el proyecto, sigue estos pasos:
 
 https://www.youtube.com/watch?v=FHP5Nr624K8
 
+
+## Personas contribuyentes
+
+Este proyecto fue mejorado en su aspecto visual por Johana Saavedra, estuadiante del Proyecto ONE de Oracle+Alura LATAM.
+![Johana](https://github.com/user-attachments/assets/38dff73c-fe26-44e3-a8cd-844edc62c4a6)
+
+## Conclusión
+
+ Agradezco la formación recibida por el Proyecto ONE de Oracle+Alura LATAM que día a día contribuye a mi formación como programadora.
+ Esta experiencia enriquecedora me ha llevado a realizar cosas que antes creía imposible llegar a comprender y desarrollar.
+
+
