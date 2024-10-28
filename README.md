@@ -3,15 +3,15 @@
 
 **Indice**
 
-- [Challenge de Alura sobre conversión de monedas con la API ExchangeRate](#descripción-del-proyecto)
+- [Challenge de Alura sobre conversión de monedas con la API ExchangeRate](#challenge-de-alura-sobre-conversión-de-monedas-con-la-api-exchangerate)
 
-- [Pasos para completar el desafío](#estado-del-proyecto)
+- [Pasos para completar el desafío](#pasos-para-completar-el-desafio)
 
-- [Tecnologías utilizadas](#características-de-la-aplicación)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-- [Ejecución del Proyecto](#demostración-de-la-aplicación)
+- [Ejecución del Proyecto](#ejecución-del-proyecto)
 
-- [Recursos](#video)
+- [Recursos](#recursos)
 
 ---
 
