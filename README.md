@@ -1,7 +1,7 @@
 # Challenge Conversor de Monedas  ![](https://img.freepik.com/fotos-premium/pila-monedas-oro-simbolos-dolar-al-estilo-dibujos-animados-14_595393-8690.jpg?w=40)
 
 
-**Indice**
+# Indice
 
 - [Challenge de Alura sobre conversión de monedas con la API ExchangeRate](#challenge-de-alura-sobre-conversión-de-monedas-con-la-api-exchangerate)
 
@@ -12,6 +12,8 @@
 - [Ejecución del Proyecto](#ejecución-del-proyecto)
 
 - [Recursos](#recursos)
+- [Personas contribuyentes](#personas-contribuyentes)
+- [Conclusión](#conclusión)
 
 ---
 
