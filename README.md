@@ -3,7 +3,7 @@
 
 # Indice
 
-- [Challenge de Alura sobre conversión de monedas con la API ExchangeRate](https://github.com/JohanaS77/ConversorDeMonedas/blob/main/README.md#challenge-de-alura-sobre-conversi%C3%B3n-de-monedas-con-la-api-exchangerate-xchangerate)
+- [Challenge de Alura sobre conversión de monedas con la API ExchangeRate](https://github.com/JohanaS77/ConversorDeMonedas/blob/main/README.md#challenge-de-alura-sobre-conversi%C3%B3n-de-monedas-con-la-api-exchangerate-)
 - [Pasos para completar el desafío](https://github.com/JohanaS77/ConversorDeMonedas/blob/main/README.md#pasos-para-completar-el-desaf%C3%ADo-)
 - [Tecnologías utilizadas](https://github.com/JohanaS77/ConversorDeMonedas/blob/main/README.md#tecnolog%C3%ADas-utilizadas-)
 - [Ejecución del Proyecto](https://github.com/JohanaS77/ConversorDeMonedas/blob/main/README.md#ejecuci%C3%B3n-del-proyecto-)
