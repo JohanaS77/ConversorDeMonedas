@@ -74,6 +74,7 @@ https://www.youtube.com/watch?v=FHP5Nr624K8
 ## Personas contribuyentes
 
 Este proyecto fue mejorado en su aspecto visual por Johana Saavedra, estuadiante del Proyecto ONE de Oracle+Alura LATAM.
+
 ![Johana](https://github.com/user-attachments/assets/38dff73c-fe26-44e3-a8cd-844edc62c4a6)
 
 ## Conclusión
