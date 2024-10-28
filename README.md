@@ -37,17 +37,17 @@ Sigue estos pasos para completar el desafío de programación y construir tu pro
 ## Tecnologías utilizadas ![](https://img.freepik.com/vector-premium/vector-personajes-dibujos-animados-portatiles_1023984-25168.jpg?w=40)
 Utiliza las siguientes tecnologías y herramientas:
 
-**-Java:** El lenguaje de programación principal utilizado para desarrollar la lógica de la aplicación y la interfaz de usuario.
+**Java:** El lenguaje de programación principal utilizado para desarrollar la lógica de la aplicación y la interfaz de usuario.
 
-**-Swing:** La biblioteca de GUI de Java utilizada para crear la interfaz gráfica de usuario. Proporciona componentes como ventanas, botones, paneles y cuadros de diálogo.
+**Swing:** La biblioteca de GUI de Java utilizada para crear la interfaz gráfica de usuario. Proporciona componentes como ventanas, botones, paneles y cuadros de diálogo.
 
-**-API de Tasas de Cambio:** Se utiliza una API de tasas de cambio para obtener las tasas de conversión actualizadas entre diferentes divisas. En este proyecto, se hace uso de solicitudes - HTTPS para acceder a la API ExchangeRate y obtener los datos de conversión.
+**API de Tasas de Cambio:** Se utiliza una API de tasas de cambio para obtener las tasas de conversión actualizadas entre diferentes divisas. En este proyecto, se hace uso de solicitudes - HTTPS para acceder a la API ExchangeRate y obtener los datos de conversión.
 
-**-Gson:** Una biblioteca de Java para convertir objetos Java en su representación JSON y viceversa. Se utiliza para analizar la respuesta JSON de la API de tasas de cambio y extraer la información relevante.
+**Gson:** Una biblioteca de Java para convertir objetos Java en su representación JSON y viceversa. Se utiliza para analizar la respuesta JSON de la API de tasas de cambio y extraer la información relevante.
 
-**-Git:** Se utiliza Git como sistema de control de versiones para el desarrollo colaborativo del proyecto.
+**Git:** Se utiliza Git como sistema de control de versiones para el desarrollo colaborativo del proyecto.
 
-**-IntelliJ IDEA:** El IDE utilizado para desarrollar y administrar el proyecto.
+**IntelliJ IDEA:** El IDE utilizado para desarrollar y administrar el proyecto.
 
 ## Ejecución del Proyecto ![](https://img.freepik.com/fotos-premium/imagen-inteligencia-artificial_1273586-25031.jpg?w=40)
 
