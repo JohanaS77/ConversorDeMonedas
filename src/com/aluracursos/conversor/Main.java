@@ -1,6 +1,6 @@
 package com.aluracursos.conversor;
-
 import java.util.Scanner;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -22,7 +22,6 @@ public class Main {
             System.out.println("6. Peso colombiano =>> Dólar");
             System.out.println("7. Salir");
             System.out.print("Elija una opción válida: ");
-
             int opcion = scanner.nextInt();
             double monto;
 
