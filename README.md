@@ -9,7 +9,7 @@
 - [Recursos](#recursos)
 - [Personas contribuyentes](#personas-contribuyentes)
 - [Conclusión](#conclusión)
-- [Challenge de Alura sobre conversión de monedas con la API ExchangeRate](#challenge-de-alura-sobre-conversion-de-monedas-con-la-api-exchangerate)
+- [Challenge de Alura sobre conversión](#challenge-de-alura-sobre-conversion)
 
 ---
 
