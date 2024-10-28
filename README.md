@@ -3,11 +3,6 @@
 
 **Indice**
 
-[TOCM]
-
-[TOC]
-
-#H1 header
 - [Challenge de Alura sobre conversión de monedas con la API ExchangeRate](#descripción-del-proyecto)
 
 - [Pasos para completar el desafío](#estado-del-proyecto)
